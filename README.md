@@ -1,6 +1,6 @@
 # Curso de JavaScript
 
-## Código desenvolvido com orientação do canal [Dev Aprender](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A).
+## Códigos desenvolvidos com orientação do canal [Dev Aprender](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A).
 
 ---
 
