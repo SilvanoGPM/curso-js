@@ -58,7 +58,7 @@
 
 [6. Encontrar Propriedas do Tipo string em um Objeto](https://github.com/SkyG0D/curso-js/tree/master/miniprojetos/06-encontrar-string-no-objeto)
 
-[7. Soma Valores Divisiveis por 3 ou 5](https://github.com/SkyG0D/curso-js/tree/master/miniprojetos/07-soma-tres-sete)
+[7. Soma Valores Divisiveis por 3 ou 5](https://github.com/SkyG0D/curso-js/tree/master/miniprojetos/07-soma-tres-cinco)
 
 [8. Média Escolar](https://github.com/SkyG0D/curso-js/tree/master/miniprojetos/08-media-escolar)
 
